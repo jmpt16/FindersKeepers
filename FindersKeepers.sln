@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaussianSplattingEditor", "GaussianSplattingEditor.csproj", "{E938B304-81C4-544B-9231-B13F7D3E486A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaussianSplatting", "GaussianSplatting.csproj", "{205722C7-6C9B-D427-404A-35D7C284180B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{B8E49D39-70D1-30E3-E063-C76F3680A6A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E938B304-81C4-544B-9231-B13F7D3E486A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E938B304-81C4-544B-9231-B13F7D3E486A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E938B304-81C4-544B-9231-B13F7D3E486A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E938B304-81C4-544B-9231-B13F7D3E486A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{205722C7-6C9B-D427-404A-35D7C284180B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{205722C7-6C9B-D427-404A-35D7C284180B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{205722C7-6C9B-D427-404A-35D7C284180B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{205722C7-6C9B-D427-404A-35D7C284180B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E49D39-70D1-30E3-E063-C76F3680A6A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E49D39-70D1-30E3-E063-C76F3680A6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E49D39-70D1-30E3-E063-C76F3680A6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E49D39-70D1-30E3-E063-C76F3680A6A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
